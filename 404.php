@@ -1,3 +1,3 @@
 <?php
-header('location: /pippozzo.php');
+header('location: /pippozzo123.php');
 ?>
